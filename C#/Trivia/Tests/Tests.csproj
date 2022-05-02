@@ -15,7 +15,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Trivia\Trivia.csproj" />
+    <ProjectReference Include="..\Trivia\GoldenMaster.csproj" />
   </ItemGroup>
 
 </Project>
